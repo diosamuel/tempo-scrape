@@ -2,7 +2,11 @@
 
 🎉 Install
 
-```npm install```
+```bash
+git clone https://github.com/diosamuel/tempo-scrape
+cd tempo-scrape
+npm install
+```
 
 🚀 Run
 
